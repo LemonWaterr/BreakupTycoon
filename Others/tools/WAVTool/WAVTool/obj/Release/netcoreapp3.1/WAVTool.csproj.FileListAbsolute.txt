@@ -1,0 +1,12 @@
+D:\develop\Breakup Tycoon\Others\tools\WAVTool\WAVTool\obj\Release\netcoreapp3.1\WAVTool.AssemblyInfoInputs.cache
+D:\develop\Breakup Tycoon\Others\tools\WAVTool\WAVTool\obj\Release\netcoreapp3.1\WAVTool.AssemblyInfo.cs
+D:\develop\Breakup Tycoon\Others\tools\WAVTool\WAVTool\bin\Release\netcoreapp3.1\WAVTool.exe
+D:\develop\Breakup Tycoon\Others\tools\WAVTool\WAVTool\bin\Release\netcoreapp3.1\WAVTool.deps.json
+D:\develop\Breakup Tycoon\Others\tools\WAVTool\WAVTool\bin\Release\netcoreapp3.1\WAVTool.runtimeconfig.json
+D:\develop\Breakup Tycoon\Others\tools\WAVTool\WAVTool\bin\Release\netcoreapp3.1\WAVTool.runtimeconfig.dev.json
+D:\develop\Breakup Tycoon\Others\tools\WAVTool\WAVTool\bin\Release\netcoreapp3.1\WAVTool.dll
+D:\develop\Breakup Tycoon\Others\tools\WAVTool\WAVTool\bin\Release\netcoreapp3.1\WAVTool.pdb
+D:\develop\Breakup Tycoon\Others\tools\WAVTool\WAVTool\bin\Release\netcoreapp3.1\NAudio.dll
+D:\develop\Breakup Tycoon\Others\tools\WAVTool\WAVTool\obj\Release\netcoreapp3.1\WAVTool.csproj.CopyComplete
+D:\develop\Breakup Tycoon\Others\tools\WAVTool\WAVTool\obj\Release\netcoreapp3.1\WAVTool.dll
+D:\develop\Breakup Tycoon\Others\tools\WAVTool\WAVTool\obj\Release\netcoreapp3.1\WAVTool.pdb

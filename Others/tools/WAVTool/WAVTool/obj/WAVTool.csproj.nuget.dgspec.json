@@ -37,6 +37,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "NAudio": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
